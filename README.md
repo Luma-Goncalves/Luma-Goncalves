@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo ao meu perfil! 👋
+;;### Olá! Seja bem vindo ao meu perfil! 👋
 
 
 Sou a Luma Gonçalves
@@ -15,7 +15,7 @@ Sou a Luma Gonçalves
 
 ### Tecnologia que utilizo
 
-[https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor]
-[https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor]
-[https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor]
+<img src = "https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
+<img src = "https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
+<img src = "https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   

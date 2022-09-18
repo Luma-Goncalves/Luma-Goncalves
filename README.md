@@ -7,7 +7,7 @@ Sou a Luma Gonçalves
 - Já trabalhei em Escritórios de Contabilidade e prestei Serviço Temporário ao Exército Brasileiro durante 6 anos
 - Recentemente, aos 34 anos, decidi fazer uma transição de carreira, iniciando pelo Front-end.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luma-barbosa-8b1b3935/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luma-gon%C3%A7alves-8b1b3935/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lumabrg)
 
 
@@ -15,7 +15,7 @@ Sou a Luma Gonçalves
 
 ### Tecnologia que utilizo
 
-https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor
-https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor
-https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor
+[https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor]
+[https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor]
+[https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor]
   

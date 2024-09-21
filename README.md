@@ -5,7 +5,7 @@ Sou a Luma Gonçalves
 
 - Formada em Ciências contábeis, mas atualmente estou cursando a formação do DevClub
 - Já trabalhei em Escritórios de Contabilidade e prestei Serviço Temporário ao Exército Brasileiro durante 6 anos
-- Recentemente, aos 34 anos, decidi fazer uma transição de carreira, iniciando pelo Front-end.
+- Decidi fazer uma transição de carreira, iniciando pelo Front-end.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luma-gon%C3%A7alves-8b1b3935/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lumabrg)
